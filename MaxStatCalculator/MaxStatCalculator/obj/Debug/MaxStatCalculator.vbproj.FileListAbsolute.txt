@@ -1,0 +1,12 @@
+C:\Users\nart\source\repos\MaxStatCalculator\MaxStatCalculator\bin\Debug\MaxStatCalculator.exe.config
+C:\Users\nart\source\repos\MaxStatCalculator\MaxStatCalculator\bin\Debug\MaxStatCalculator.exe
+C:\Users\nart\source\repos\MaxStatCalculator\MaxStatCalculator\bin\Debug\MaxStatCalculator.pdb
+C:\Users\nart\source\repos\MaxStatCalculator\MaxStatCalculator\bin\Debug\MaxStatCalculator.xml
+C:\Users\nart\source\repos\MaxStatCalculator\MaxStatCalculator\obj\Debug\MaxStatCalculator.vbprojAssemblyReference.cache
+C:\Users\nart\source\repos\MaxStatCalculator\MaxStatCalculator\obj\Debug\MaxStatCalculator.Form1.resources
+C:\Users\nart\source\repos\MaxStatCalculator\MaxStatCalculator\obj\Debug\MaxStatCalculator.Resources.resources
+C:\Users\nart\source\repos\MaxStatCalculator\MaxStatCalculator\obj\Debug\MaxStatCalculator.vbproj.GenerateResource.cache
+C:\Users\nart\source\repos\MaxStatCalculator\MaxStatCalculator\obj\Debug\MaxStatCalculator.vbproj.CoreCompileInputs.cache
+C:\Users\nart\source\repos\MaxStatCalculator\MaxStatCalculator\obj\Debug\MaxStatCalculator.exe
+C:\Users\nart\source\repos\MaxStatCalculator\MaxStatCalculator\obj\Debug\MaxStatCalculator.xml
+C:\Users\nart\source\repos\MaxStatCalculator\MaxStatCalculator\obj\Debug\MaxStatCalculator.pdb
